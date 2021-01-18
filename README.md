@@ -9,8 +9,8 @@ Here are some ideas about me to get you started:
 
 
 - 💬 Ask me about:Machine Learning , Data Science , Deep Learning,Formula One, Star Wars
-- 📫 How to reach me: * Kaggle: https://www.kaggle.com/mohitkarelia 
-                      * Email: mhkarelia99@gmail.com
-                      * Twitter: https://twitter.com/MohitKarelia501
+- 📫 How to reach me:  Kaggle: https://www.kaggle.com/mohitkarelia 
+                       Email: mhkarelia99@gmail.com
+                       Twitter: https://twitter.com/MohitKarelia501
                           
 
