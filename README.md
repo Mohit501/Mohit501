@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Mohit501/Mohit501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas about me to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Deep Learning,Kaggle Competitons
+- 🌱 I’m currently learning Deep Neural Networks,ImageProcessing
+- 👯 I’m looking to collaborate on Coffee
+
+- 💬 Ask me about:Machine Learning , Data Science , Deep Learning,Formula One, Star Wars
+- 📫 How to reach me: ... Kaggle: https://www.kaggle.com/mohitkarelia 
+                          Email: mhkarelia99@gmail.com
+
