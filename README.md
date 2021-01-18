@@ -2,7 +2,7 @@
 
 
 Here are some ideas about me to get you started:
-- Technologies I know about: Deep Learning,Machine Learning, Open Computer Visualizations(OpenCV),Web Development(Flask backend +html_css frontend),GUI development.
+- Technologies I know about: Deep Learning,Machine Learning,Data Science,Open Computer Visualizations(OpenCV),Web Development(Flask backend +html_css frontend),GUI development.
 - 🔭 I’m currently working on Deep Learning,Kaggle Competitons
 - 🌱 I’m currently learning Deep Neural Networks,ImageProcessing
 - 👯 I’m looking to collaborate on Coffee
